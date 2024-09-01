@@ -5,4 +5,4 @@ This project was replication of the methodology presented in this paper: [**Titl
 The notebooks are quite explanatory and are easy to follow along but due to data constraint as mentioned above it might not be possible to run it. Though you can use any other data that you would like and run it for that. 
 
 ### How to Run 
-There are two notebooks *SNad_train* and *SNad_val*. Former is used to create the inputs for the latter hence run the former first. 
+There are two notebooks *SNaD_train* and *SNaD_val*. Former is used to create the inputs for the latter hence run the former first. 
